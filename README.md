@@ -6,3 +6,8 @@ This is a fictional project to learn how to create interfaces with SwiftUI.
         <img alt="XCode Simulator" title="#instalink" src="movie-app.gif" />
     <a/>
 </h1>
+
+# SwiftUI
+Some links and servers that I find useful for bot development.
+* [SwiftUI Framework Documentation](https://developer.apple.com/documentation/swiftui/)
+
