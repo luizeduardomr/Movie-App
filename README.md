@@ -8,6 +8,6 @@ This is a fictional project to learn how to create interfaces with SwiftUI.
 </h1>
 
 # SwiftUI
-Some links and servers that I find useful for bot development.
+Some links that I find useful for interfaces development with SwiftuI.
 * [SwiftUI Framework Documentation](https://developer.apple.com/documentation/swiftui/)
 
