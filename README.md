@@ -7,7 +7,7 @@ This is a fictional project to learn how to create interfaces with SwiftUI.
     <a/>
 </h1>
 
-# SwiftUI
+# Guides
 Some links that I find useful for interfaces development with SwiftuI.
 * [SwiftUI Framework Documentation](https://developer.apple.com/documentation/swiftui/)
 
